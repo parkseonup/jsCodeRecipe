@@ -1,0 +1,11 @@
+body {
+  position: relative;
+}
+
+.character {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+}
